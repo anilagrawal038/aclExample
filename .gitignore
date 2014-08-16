@@ -12,6 +12,7 @@
 
 # logs
 /stacktrace.log
+/test
 /test/reports
 /logs
 
@@ -31,6 +32,9 @@
 #Idea files
 /*.iml
 /.idea
+
+/.classpath
+/.project
 
 /wrapper
 
